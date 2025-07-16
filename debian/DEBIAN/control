@@ -1,0 +1,7 @@
+Package: cluster-backupper
+Version: 0.1
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Lenard Buesing <buelenard@tutanota.com>
+Description: A simple backup script for my nextcloud and its i3 storage
